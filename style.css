@@ -3,3 +3,8 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{align-content: center;}
+image{justify-content: center;}
+a{padding: 10px;}
+figcaption{font-size: small ;align-content: center;}
+p{width: 800px ; align-content: center; vertical-align: 5px;}
